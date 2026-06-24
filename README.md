@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**OnionSential/OnionSential** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/OnionSential/OnionSential/main/cmd.svg" width="700" alt="cmd"/>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### > languages
+
+![C#](https://img.shields.io/badge/C%23-ffffff?style=for-the-badge&logo=c-sharp&logoColor=black)
+![.NET](https://img.shields.io/badge/.NET-ffffff?style=for-the-badge&logo=dotnet&logoColor=black)
+![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=black)
+
+### > stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=OnionSential&show_icons=true&hide_border=true&hide_title=true&theme=dark&icon_color=ffffff&text_color=ffffff&bg_color=0d1117)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OnionSential&layout=compact&hide_border=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=0d1117)
+
+### > trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=OnionSential&theme=onedark&no-frame=true&column=4&margin-w=8&margin-h=8"/>
+
+### > snake
+
+<img src="https://raw.githubusercontent.com/OnionSential/OnionSential/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
