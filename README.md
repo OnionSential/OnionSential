@@ -17,10 +17,6 @@
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OnionSential&layout=compact&hide_border=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=0d1117)
 
-### > trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=OnionSential&theme=onedark&no-frame=true&column=4&margin-w=8&margin-h=8"/>
-
 ### > snake
 
 <img src="https://raw.githubusercontent.com/OnionSential/OnionSential/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
