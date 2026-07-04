@@ -18,6 +18,5 @@
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OnionSential&layout=compact&hide_border=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=0d1117)
 
-### > snake
 
 <img src="https://raw.githubusercontent.com/OnionSential/OnionSential/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
